@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ryos.best	TRUE	/	FALSE	1999999999	__cfduid	ded7b338e27bf384aedf0d31f91dc4bd51597913210
+ryos.best	TRUE	/	FALSE	1999999999	SameSite	Lax
+.discord.com	TRUE	/	FALSE	1999999999	__cfduid	d1d371cdded733c9e92f4b150aa9d747e1597913212
+discord.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
